@@ -4,3 +4,5 @@
 3. Course lecture allocation
 4. Timetable
 5. Assignment
+
+### for full package and demo contact g3send@gmail.com
